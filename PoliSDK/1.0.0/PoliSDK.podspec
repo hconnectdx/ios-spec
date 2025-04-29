@@ -23,5 +23,6 @@ Pod::Spec.new do |s|
 
   s.source_files = 'PoliSDK/PoliClasses/**/*'
   s.dependency 'HCBle', '~> 0.1.7'
+  
 
 end
