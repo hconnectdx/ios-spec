@@ -21,6 +21,3 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
   s.source_files = 'HCBle/HCBleClasses/**/*'
 end
-
-# 배포 명령어
-# pod repo push hconnectdx-ios-spec HCBle.podspec --sources='https://github.com/hconnectdx/ios-spec.git' --allow-warnings
