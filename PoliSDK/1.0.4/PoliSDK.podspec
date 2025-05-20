@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'PoliSDK/PoliClasses/**/*'
-  s.dependency 'HCBle', '~> 0.1.9'
+  s.dependency 'HCBle', '~> 1.0.1'
   
 
 end
